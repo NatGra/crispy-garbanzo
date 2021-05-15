@@ -1,0 +1,3 @@
+dockerUsername:      "Your Docker Hub Username"
+dockerPassword:      "Your Docker Hub Password or Access Token"
+dockerServerAddress: "https://index.docker.io/v1/"
