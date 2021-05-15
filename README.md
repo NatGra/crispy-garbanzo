@@ -1,5 +1,7 @@
 # Example project in Go using the Docker Engine SDKs and Docker API
 
+This is a test project to play around with the Docker Engine SDKs and Docker API for Go.
+
 ## Build and run the project
 Use the following commands:
 ```sh
